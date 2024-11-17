@@ -1,0 +1,23 @@
+.demoButton{
+    color: white;
+    background-color: #ffbb00;
+    width: 25%;
+    height: 10%;
+    display: flex; /* Enable flexbox */
+    justify-content: space-between; /* Distributes space between items */
+    align-items: center; /* Aligns items vertically centered */
+}
+
+.arrow-img{
+    height: 60px;
+    border-radius: 100%;
+    background-color: rgb(20, 20, 20);
+    padding: 10px;
+}
+
+.icon-demoButton{
+    display: inline-flex;
+    background-color: rgb(20, 20, 20) ;
+    width: 100%;
+}
+  
